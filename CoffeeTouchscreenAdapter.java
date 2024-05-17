@@ -10,7 +10,7 @@ public class CoffeeTouchscreenAdapter implements CoffeeMachineInterface {
     public void chooseFirstSelection(){
         OldVendingMachine.selectA();
     }
-    public void chooseDecondSelection(){
+    public void chooseSecondSelection(){
         OldVendingMachine.selectB();
     }
 
